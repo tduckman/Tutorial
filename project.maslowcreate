@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1630,
+                    "y": 234,
                     "ioValues": []
                 }
             ],
@@ -264,8 +264,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 698,
-                    "y": 196,
+                    "x": 704,
+                    "y": 194,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1630,
+                    "y": 234,
                     "ioValues": []
                 }
             ],
